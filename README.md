@@ -2,7 +2,7 @@
 
 🎓 BS Information Technology @ University of Toledo (GPA: 3.97)
 📍 Toledo, OH | 📧 ayushnakate02@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/ayush-nakate-04560a2b5) | [Portfolio](your-portfolio-url)
+🔗 [LinkedIn](https://linkedin.com/in/ayush-nakate-04560a2b5) | [Portfolio](https://ayush-nakate.github.io/ayush-nakate-portfolio/)
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
